@@ -1,0 +1,6 @@
+projectKey=com:Springmvc
+serverUrl=http://localhost:9000
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:9000/dashboard?id=com%3ASpringmvc
+ceTaskId=AW9kz3903_NJPZGKVevT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW9kz3903_NJPZGKVevT

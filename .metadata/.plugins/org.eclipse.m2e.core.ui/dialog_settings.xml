@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="springbootwithJPA"/>
+			<item value="SpringBootWithDataJPA"/>
+			<item value="SpringSecurityDEMO"/>
+			<item value="SPRINGSECURITY"/>
+			<item value="SPRINGMVCVALIDATION"/>
+			<item value="HANDSON"/>
+			<item value="REVERSEOFASTRING"/>
+			<item value="RESTEXAMPLE"/>
+			<item value="Springmvc"/>
+			<item value="SPRINGMVCMODE2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\teja.malepati\Desktop\SpringSecurity"/>
+			<item value="C:\Users\teja.malepati\Downloads\Spring_Mvc_Security_Maven_Project_Test"/>
+			<item value="C:\Users\teja.malepati\Downloads\SpringBootWithDATABASE (2)\SpringBootWithDATABASE"/>
+			<item value="C:\Users\teja.malepati\Downloads\SpringBootstater\SpringBootstater"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\teja.malepati\Downloads\SpringBootstater\SpringBootstater"/>
+			<item value="C:\MODE2\SPRINGSECURITY"/>
+			<item value="C:\MODE2\Springmvc\pom.xml"/>
+			<item value="C:\MODE2\RESTEXAMPLE\src\main\java\com\model\Employee.java"/>
+			<item value="C:\MODE2\SPRINGMVCMODE2"/>
+			<item value="C:\MODE2\WebServiceDemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
